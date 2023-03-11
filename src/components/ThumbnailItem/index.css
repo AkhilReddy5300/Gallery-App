@@ -1,0 +1,16 @@
+/* Write your code here. */
+.lists {
+  list-style: none;
+  margin-right: 12px;
+}
+.button {
+  border: 0px;
+  cursor: pointer;
+  outline: none;
+  background-color: #ffffff;
+  margin-left: 0px;
+}
+.list-img {
+  height: 50px;
+  width: 50px;
+}
